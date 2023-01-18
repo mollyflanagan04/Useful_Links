@@ -1,0 +1,17 @@
+.card_style{
+  text-align: center;
+  margin: 50px;
+  width:350px;
+}
+
+.card_group{
+  width: 1500px;
+}
+
+.search-bar{
+  position: relative;
+  margin-top: 20px;
+  margin-left: 20px;
+    
+  
+}
